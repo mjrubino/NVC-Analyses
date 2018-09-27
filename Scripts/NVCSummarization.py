@@ -223,5 +223,108 @@ a.set_title('NVC Classes by Protection Status', fontsize=16)
 plt.show()
 
 
+"""
+    Plot a horizontal bar chart for each NVC class showing
+    the number of NVC groups in that class with 1 & 2 protection
+    across all four protection % bins <1, 1-17, 17-50, >50
+    
+    To start, query the first dataframe for the necessary data
+    and generate a new dataframe for plotting
+
+"""
+
+collist = ['NVCClass','LT1','LT17','LT50','GT50','nGroups']
+tablelst = []
+protcol = '% Protected 1 & 2'
+classes = df3.NVCClass.unique()
+for c in classes:
+	n1 = len(df[(df[protcol] < 1) & (df['NVCClass'] == c)])
+	n17 = len(df[(df[protcol] > 1) & (df[protcol] < 17) & (df['NVCClass'] == c)])
+	n18 = len(df[(df[protcol] > 17) & (df[protcol] < 50) & (df['NVCClass'] == c)])
+	n50 = len(df[(df[protcol] > 50) & (df['NVCClass'] == c)])
+	nTotal = len(df[(df['NVCClass'] == c)])
+	tablelst.append([c,n1,n17,n18,n50,nTotal])
+
+dfProtBins = pd.DataFrame(tablelst, columns=collist)
+
+fig2, ax = plt.subplots(figsize=(8,5))
+
+# Plot each bar on top of the previous
+# Plot total number of groups by class first
+#sns.barplot(x="nGroups", y="NVCClass", data=dfProtBins,
+#            label="Total Number of Groups", color="skyblue")
+
+# Plot less than 17% protected numbers
+sns.barplot(x="LT17", y="NVCClass", data=dfProtBins,
+            label="< 17% Protected", color="orangered")
+
+# Plot greater than 17% protected numbers			
+sns.barplot(x="LT50", y="NVCClass", data=dfProtBins,
+            label="17-50% Protected", color="y")
+
+# Plot greater than 50% protected numbers
+sns.barplot(x="GT50", y="NVCClass", data=dfProtBins,
+            label="> 50% Protected", color="forestgreen")
+
+# Plot less than 1% protected numbers
+sns.barplot(x="LT1", y="NVCClass", data=dfProtBins,
+            label="< 1% Protected", color="red")
+
+# Add a legend and informative axis label
+ax.legend(ncol=1, loc="lower right", frameon=True)
+ax.set(xlim=(0, 100), ylabel="",
+       xlabel="Number of NVC Groups in a Class By Protection Amount Category")
+sns.despine(left=True, bottom=True)
+
+
+"""
+    Plot a vertical bar chart for the number of groups
+    in protection categories by class
+
+"""
+
+cols = ['NVCClass','ProtCat','nGroups']
+tablelst = []
+protcol = '% Protected 1 & 2'
+classes = df3.NVCClass.unique()
+for c in classes:
+	n1 = len(df[(df[protcol] < 1) & (df['NVCClass'] == c)])
+	tablelst.append([c,'< 1%',n1])
+	n17 = len(df[(df[protcol] > 1) & (df[protcol] < 17) & (df['NVCClass'] == c)])
+	tablelst.append([c,'1-17%',n17])
+	n18 = len(df[(df[protcol] > 17) & (df[protcol] < 50) & (df['NVCClass'] == c)])
+	tablelst.append([c,'17-50%',n18])
+	n50 = len(df[(df[protcol] > 50) & (df['NVCClass'] == c)])
+	tablelst.append([c,'> 50%',n50])
+
+dfProtCats = pd.DataFrame(tablelst, columns=cols)
+
+fig3, ax3 = plt.subplots(figsize=(6,10))
+plt.xticks(rotation=45)
+
+ax3.set_xlabel('NVC Class', fontsize=12)
+ax3.set_ylabel('Number of NVC Groups', fontsize=12)
+labels = ['F & W','S & H','D & SD','PHMS','ORV']
+ax3.set_xticklabels(labels)
+ax3.set_title('Number of Groups in Protection Categories by Class', fontsize=16)
+leg = ax3.legend()
+leg.set_title('Protection Categories',prop={'size':11})
+
+sns.barplot(data = dfProtCats,
+                hue = 'ProtCat',
+                x = 'NVCClass',
+                y = 'nGroups',
+                order = ['Forest & Woodland',
+                         'Shrub & Herb Vegetation',
+                         'Desert & Semi-Desert',
+                         'Polar & High Montane Scrub, Grassland & Barrens',
+                         'Open Rock Vegetation'],
+                ax=ax3)
+
+
+
+
+
+
 
 
