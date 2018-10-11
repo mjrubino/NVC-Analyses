@@ -1,0 +1,1113 @@
+PADStatus,NVCClass,ManageName,nCellSum
+1,Agricultural & Developed Vegetation,State Department of Conservation,6925
+1,Agricultural & Developed Vegetation,U.S. Fish & Wildlife Service,431623
+1,Aquatic Vegetation,Forest Service,580
+1,Aquatic Vegetation,National Park Service,174
+1,Desert & Semi-Desert,City Land,461
+1,Developed & Other Human Use,County Land,22412
+1,Developed & Other Human Use,Other or Unknown State Land,71869
+1,Developed & Other Human Use,State Department of Natural Resources,39415
+1,Forest & Woodland,Tennessee Valley Authority,5184
+1,Forest & Woodland,Unknown,838197
+1,Introduced & Semi Natural Vegetation,Joint,19
+1,Introduced & Semi Natural Vegetation,State Department of Conservation,725
+1,Introduced & Semi Natural Vegetation,State Fish and Wildlife,113
+1,Introduced & Semi Natural Vegetation,U.S. Fish & Wildlife Service,55633
+1,Nonvascular & Sparse Vascular Rock Vegetation,State Fish and Wildlife,5
+1,Open Rock Vegetation,State Department of Natural Resources,618
+1,Open Water,Army Corps of Engineers,68721
+1,Open Water,Other,55
+1,Polar & High Montane Scrub, Grassland & Barrens,City Land,3941
+1,Recently Disturbed or Modified,State Department of Conservation,58517
+1,Shrub & Herb Vegetation,Army Corps of Engineers,2887
+1,Shrub & Herb Vegetation,Other,4
+2,Agricultural & Developed Vegetation,City Land,105793
+2,Agricultural & Developed Vegetation,Regional Agency Land,58428
+2,Agricultural & Developed Vegetation,State Department of Conservation,159090
+2,Desert & Semi-Desert,State Fish and Wildlife,5217942
+2,Developed & Other Human Use,County Land,228944
+2,Developed & Other Human Use,Other,473
+2,Developed & Other Human Use,Other or Unknown State Land,279915
+2,Developed & Other Human Use,Unknown,798795
+2,Forest & Woodland,County Land,1417458
+2,Forest & Woodland,Other or Unknown State Land,7286124
+2,Forest & Woodland,State Department of Natural Resources,13882741
+2,Forest & Woodland,Unknown,19766139
+2,Introduced & Semi Natural Vegetation,City Land,13283
+2,Introduced & Semi Natural Vegetation,Joint,8848
+2,Introduced & Semi Natural Vegetation,State Department of Conservation,10914
+2,Nonvascular & Sparse Vascular Rock Vegetation,Joint,8650
+2,Nonvascular & Sparse Vascular Rock Vegetation,State Fish and Wildlife,25436
+2,Open Rock Vegetation,National Park Service,246748
+2,Open Rock Vegetation,State Department of Natural Resources,36052
+2,Open Water,Unknown,974133
+2,Polar & High Montane Scrub, Grassland & Barrens,Regional Water Districts,344
+2,Polar & High Montane Scrub, Grassland & Barrens,State Fish and Wildlife,10462
+2,Recently Disturbed or Modified,Natural Resources Conservation Service,976452
+2,Recently Disturbed or Modified,Other or Unknown Local Government,2494
+2,Recently Disturbed or Modified,State Department of Conservation,161984
+2,Recently Disturbed or Modified,State Department of Land,8478
+2,Recently Disturbed or Modified,State Park and Recreation,114305
+2,Recently Disturbed or Modified,U.S. Fish & Wildlife Service,892723
+3,Agricultural & Developed Vegetation,Other,3204
+3,Agricultural & Developed Vegetation,Other or Unknown State Land,3313469
+3,Aquatic Vegetation,City Land,45
+3,Desert & Semi-Desert,Agricultural Research Service,715792
+3,Desert & Semi-Desert,Other or Unknown Federal Land,32
+3,Desert & Semi-Desert,Regional Agency Land,5582
+3,Desert & Semi-Desert,State Park and Recreation,2593236
+3,Developed & Other Human Use,Bureau of Land Management,4312193
+3,Developed & Other Human Use,State Land Board,687491
+3,Forest & Woodland,American Indian Lands,17952
+3,Forest & Woodland,City Land,2416455
+3,Forest & Woodland,Other or Unknown Local Government,4292
+3,Introduced & Semi Natural Vegetation,American Indian Lands,19
+3,Introduced & Semi Natural Vegetation,Department of Defense,17
+3,Introduced & Semi Natural Vegetation,Private,4758
+3,Introduced & Semi Natural Vegetation,Regional Water Districts,2372
+3,Introduced & Semi Natural Vegetation,State Department of Land,296200
+3,Introduced & Semi Natural Vegetation,Tennessee Valley Authority,532
+3,Nonvascular & Sparse Vascular Rock Vegetation,City Land,7761
+3,Nonvascular & Sparse Vascular Rock Vegetation,Regional Agency Land,216
+3,Nonvascular & Sparse Vascular Rock Vegetation,State Department of Conservation,10648
+3,Open Rock Vegetation,County Land,445
+3,Open Rock Vegetation,State Fish and Wildlife,13243
+3,Open Rock Vegetation,U.S. Fish & Wildlife Service,55
+3,Open Water,City Land,307344
+3,Open Water,State Department of Conservation,246692
+3,Polar & High Montane Scrub, Grassland & Barrens,Bureau of Reclamation,49
+3,Polar & High Montane Scrub, Grassland & Barrens,Forest Service,15513522
+3,Polar & High Montane Scrub, Grassland & Barrens,National Park Service,2452
+3,Recently Disturbed or Modified,Department of Defense,12557
+3,Recently Disturbed or Modified,Forest Service,36736832
+1,Agricultural & Developed Vegetation,Other or Unknown State Land,341118
+1,Agricultural & Developed Vegetation,Unknown,117153
+1,Aquatic Vegetation,Bureau of Land Management,38
+1,Desert & Semi-Desert,National Park Service,63620862
+1,Developed & Other Human Use,Non-Governmental Organization,38571
+1,Introduced & Semi Natural Vegetation,Army Corps of Engineers,54
+1,Introduced & Semi Natural Vegetation,National Park Service,202736
+1,Introduced & Semi Natural Vegetation,State Department of Natural Resources,682
+1,Nonvascular & Sparse Vascular Rock Vegetation,National Park Service,509756
+1,Nonvascular & Sparse Vascular Rock Vegetation,State Department of Conservation,2673
+1,Nonvascular & Sparse Vascular Rock Vegetation,State Park and Recreation,24055
+1,Nonvascular & Sparse Vascular Rock Vegetation,Tennessee Valley Authority,14
+1,Open Rock Vegetation,State Fish and Wildlife,11
+1,Open Rock Vegetation,U.S. Fish & Wildlife Service,30244
+1,Open Water,State Department of Conservation,99207
+1,Open Water,State Park and Recreation,187786
+1,Polar & High Montane Scrub, Grassland & Barrens,National Park Service,9719640
+1,Polar & High Montane Scrub, Grassland & Barrens,State Department of Natural Resources,1422
+1,Recently Disturbed or Modified,Forest Service,10506912
+1,Recently Disturbed or Modified,Private,51963
+1,Shrub & Herb Vegetation,Bureau of Land Management,2629246
+1,Shrub & Herb Vegetation,Non-Governmental Organization,117635
+1,Shrub & Herb Vegetation,State Land Board,380
+2,Agricultural & Developed Vegetation,Army Corps of Engineers,44127
+2,Agricultural & Developed Vegetation,Joint,293854
+2,Agricultural & Developed Vegetation,National Park Service,305626
+2,Agricultural & Developed Vegetation,State Department of Natural Resources,814970
+2,Aquatic Vegetation,U.S. Fish & Wildlife Service,2838
+2,Desert & Semi-Desert,Bureau of Reclamation,8188
+2,Desert & Semi-Desert,Private,46332
+2,Developed & Other Human Use,Agricultural Research Service,3
+2,Developed & Other Human Use,Natural Resources Conservation Service,1355176
+2,Developed & Other Human Use,Other or Unknown Federal Land,385
+2,Developed & Other Human Use,Regional Agency Land,42712
+2,Forest & Woodland,Department of Defense,3670
+2,Forest & Woodland,Natural Resources Conservation Service,17569568
+2,Forest & Woodland,Other or Unknown Federal Land,861
+2,Forest & Woodland,Regional Agency Land,180608
+2,Forest & Woodland,State Department of Conservation,10443431
+2,Forest & Woodland,State Park and Recreation,4502491
+2,Introduced & Semi Natural Vegetation,Private,22155
+2,Introduced & Semi Natural Vegetation,Unknown,57099
+2,Nonvascular & Sparse Vascular Rock Vegetation,Bureau of Reclamation,55
+2,Nonvascular & Sparse Vascular Rock Vegetation,Forest Service,26798
+2,Nonvascular & Sparse Vascular Rock Vegetation,Non-Governmental Organization,25013
+2,Nonvascular & Sparse Vascular Rock Vegetation,Private,37788
+2,Nonvascular & Sparse Vascular Rock Vegetation,State Department of Land,9852
+2,Open Rock Vegetation,City Land,651
+2,Open Rock Vegetation,Regional Water Districts,3084
+2,Open Rock Vegetation,State Department of Conservation,277
+2,Open Water,Bureau of Indian Affairs,575
+2,Open Water,Forest Service,1063076
+2,Open Water,Non-Governmental Organization,463212
+2,Open Water,State Department of Land,11000
+2,Polar & High Montane Scrub, Grassland & Barrens,Other or Unknown State Land,1533
+2,Recently Disturbed or Modified,Army Corps of Engineers,22785
+2,Recently Disturbed or Modified,County Land,52100
+2,Recently Disturbed or Modified,Other or Unknown State Land,171809
+2,Recently Disturbed or Modified,State Department of Natural Resources,1006352
+2,Shrub & Herb Vegetation,Agricultural Research Service,98
+2,Shrub & Herb Vegetation,Natural Resources Conservation Service,6653672
+2,Shrub & Herb Vegetation,Other or Unknown Federal Land,8970
+2,Shrub & Herb Vegetation,Regional Agency Land,455526
+2,Shrub & Herb Vegetation,State Park and Recreation,743567
+3,Agricultural & Developed Vegetation,Bureau of Land Management,1630492
+3,Agricultural & Developed Vegetation,City Land,385014
+3,Agricultural & Developed Vegetation,County Land,318055
+3,Agricultural & Developed Vegetation,Other or Unknown Local Government,498
+3,Agricultural & Developed Vegetation,State Land Board,2334375
+3,Aquatic Vegetation,Forest Service,284
+3,Developed & Other Human Use,Forest Service,10253732
+3,Developed & Other Human Use,Other,3005
+3,Developed & Other Human Use,Private,226932
+3,Developed & Other Human Use,State Department of Land,85836
+3,Forest & Woodland,Bureau of Reclamation,490430
+3,Forest & Woodland,Unknown,4941192
+3,Introduced & Semi Natural Vegetation,Joint,1791
+3,Introduced & Semi Natural Vegetation,State Fish and Wildlife,46989
+3,Introduced & Semi Natural Vegetation,U.S. Fish & Wildlife Service,29233
+3,Nonvascular & Sparse Vascular Rock Vegetation,Army Corps of Engineers,539
+1,Agricultural & Developed Vegetation,Regional Water Districts,284
+1,Desert & Semi-Desert,Bureau of Land Management,29899199
+1,Desert & Semi-Desert,Other or Unknown State Land,29218
+1,Desert & Semi-Desert,State Department of Natural Resources,31725
+1,Desert & Semi-Desert,State Land Board,5142
+1,Developed & Other Human Use,National Park Service,605908
+1,Developed & Other Human Use,Regional Water Districts,2708
+1,Developed & Other Human Use,State Fish and Wildlife,4055
+1,Forest & Woodland,Forest Service,185679068
+1,Forest & Woodland,Joint,121595
+1,Forest & Woodland,Non-Governmental Organization,642885
+1,Forest & Woodland,Private,2203362
+1,Introduced & Semi Natural Vegetation,Other or Unknown State Land,4107
+1,Nonvascular & Sparse Vascular Rock Vegetation,City Land,313
+1,Open Water,City Land,6683
+1,Recently Disturbed or Modified,State Fish and Wildlife,3943
+1,Shrub & Herb Vegetation,National Park Service,13922126
+1,Shrub & Herb Vegetation,Regional Water Districts,624
+1,Shrub & Herb Vegetation,State Fish and Wildlife,6063
+2,Agricultural & Developed Vegetation,Bureau of Indian Affairs,359
+2,Agricultural & Developed Vegetation,Bureau of Land Management,340755
+2,Agricultural & Developed Vegetation,Forest Service,341504
+2,Agricultural & Developed Vegetation,Non-Governmental Organization,1805372
+2,Agricultural & Developed Vegetation,Private,296397
+2,Agricultural & Developed Vegetation,State Land Board,2760
+2,Aquatic Vegetation,State Park and Recreation,411
+2,Desert & Semi-Desert,Agricultural Research Service,1185
+2,Desert & Semi-Desert,State Park and Recreation,643442
+2,Desert & Semi-Desert,U.S. Fish & Wildlife Service,12303802
+2,Developed & Other Human Use,Bureau of Reclamation,4203
+2,Developed & Other Human Use,Forest Service,2293172
+2,Developed & Other Human Use,Private,200832
+2,Developed & Other Human Use,State Department of Conservation,278440
+2,Forest & Woodland,City Land,1073688
+2,Introduced & Semi Natural Vegetation,Bureau of Reclamation,6590
+2,Introduced & Semi Natural Vegetation,Other,91
+2,Introduced & Semi Natural Vegetation,Other or Unknown Federal Land,658
+2,Introduced & Semi Natural Vegetation,State Park and Recreation,30105
+2,Nonvascular & Sparse Vascular Rock Vegetation,Regional Agency Land,3052
+2,Open Rock Vegetation,Bureau of Land Management,665986
+2,Open Rock Vegetation,Bureau of Reclamation,3
+2,Open Rock Vegetation,Joint,8150
+2,Open Rock Vegetation,State Land Board,3
+2,Open Rock Vegetation,State Park and Recreation,7379
+2,Open Rock Vegetation,Tennessee Valley Authority,93
+2,Open Water,Bureau of Land Management,227096
+2,Open Water,Department of Defense,87
+2,Open Water,Joint,149816
+2,Open Water,State Land Board,4584
+2,Open Water,Tennessee Valley Authority,5808
+2,Polar & High Montane Scrub, Grassland & Barrens,State Park and Recreation,1233
+2,Recently Disturbed or Modified,Department of Defense,29
+2,Recently Disturbed or Modified,Tennessee Valley Authority,156
+2,Recently Disturbed or Modified,Unknown,574860
+2,Shrub & Herb Vegetation,Bureau of Reclamation,85347
+2,Shrub & Herb Vegetation,Forest Service,3136118
+2,Shrub & Herb Vegetation,Private,474510
+2,Shrub & Herb Vegetation,State Department of Conservation,426535
+3,Agricultural & Developed Vegetation,Army Corps of Engineers,25520
+3,Agricultural & Developed Vegetation,Department of Defense,5299
+3,Agricultural & Developed Vegetation,Joint,189826
+3,Agricultural & Developed Vegetation,Other or Unknown Federal Land,216
+3,Agricultural & Developed Vegetation,State Park and Recreation,288901
+3,Agricultural & Developed Vegetation,Tennessee Valley Authority,190182
+3,Aquatic Vegetation,State Park and Recreation,3870
+3,Desert & Semi-Desert,State Fish and Wildlife,1330137
+3,Developed & Other Human Use,Agricultural Research Service,2608
+3,Developed & Other Human Use,Army Corps of Engineers,4747
+3,Developed & Other Human Use,Bureau of Reclamation,177137
+3,Developed & Other Human Use,Joint,290038
+3,Forest & Woodland,Natural Resources Conservation Service,272124
+3,Forest & Woodland,Regional Agency Land,649512
+3,Forest & Woodland,U.S. Fish & Wildlife Service,833540
+3,Introduced & Semi Natural Vegetation,Agricultural Research Service,273
+3,Introduced & Semi Natural Vegetation,Non-Governmental Organization,36020
+3,Introduced & Semi Natural Vegetation,Other,179
+3,Introduced & Semi Natural Vegetation,Unknown,37959
+3,Nonvascular & Sparse Vascular Rock Vegetation,Bureau of Land Management,302676
+3,Nonvascular & Sparse Vascular Rock Vegetation,Forest Service,207472
+3,Nonvascular & Sparse Vascular Rock Vegetation,Non-Governmental Organization,21441
+3,Nonvascular & Sparse Vascular Rock Vegetation,Private,2832
+3,Nonvascular & Sparse Vascular Rock Vegetation,State Land Board,1055
+1,Agricultural & Developed Vegetation,City Land,43076
+1,Aquatic Vegetation,State Department of Natural Resources,21
+1,Desert & Semi-Desert,County Land,9123
+1,Desert & Semi-Desert,State Fish and Wildlife,2109
+1,Developed & Other Human Use,Other,6
+1,Forest & Woodland,Army Corps of Engineers,97608
+1,Forest & Woodland,Other or Unknown State Land,1588568
+1,Forest & Woodland,State Department of Natural Resources,1834605
+1,Introduced & Semi Natural Vegetation,Bureau of Land Management,93381
+1,Introduced & Semi Natural Vegetation,City Land,1970
+1,Nonvascular & Sparse Vascular Rock Vegetation,Joint,430
+1,Nonvascular & Sparse Vascular Rock Vegetation,State Department of Natural Resources,3018
+1,Nonvascular & Sparse Vascular Rock Vegetation,Unknown,261
+1,Open Rock Vegetation,National Park Service,1276634
+1,Open Rock Vegetation,Other or Unknown State Land,597
+1,Open Water,County Land,14680
+1,Open Water,Other or Unknown State Land,180278
+1,Open Water,State Department of Natural Resources,62241
+1,Open Water,Unknown,9789
+1,Polar & High Montane Scrub, Grassland & Barrens,State Department of Conservation,18969
+1,Polar & High Montane Scrub, Grassland & Barrens,State Fish and Wildlife,62
+1,Polar & High Montane Scrub, Grassland & Barrens,U.S. Fish & Wildlife Service,2388
+1,Recently Disturbed or Modified,Bureau of Land Management,29211
+1,Recently Disturbed or Modified,U.S. Fish & Wildlife Service,288956
+1,Shrub & Herb Vegetation,County Land,79424
+1,Shrub & Herb Vegetation,Other or Unknown State Land,144529
+1,Shrub & Herb Vegetation,State Department of Natural Resources,170450
+2,Agricultural & Developed Vegetation,Bureau of Reclamation,12767
+2,Agricultural & Developed Vegetation,Other or Unknown Local Government,16840
+2,Agricultural & Developed Vegetation,Regional Water Districts,2720188
+2,Aquatic Vegetation,Other or Unknown State Land,13
+2,Aquatic Vegetation,State Department of Natural Resources,78
+2,Desert & Semi-Desert,City Land,18767
+2,Desert & Semi-Desert,Joint,53614
+2,Desert & Semi-Desert,Unknown,87975
+2,Developed & Other Human Use,Army Corps of Engineers,21445
+2,Forest & Woodland,Army Corps of Engineers,249298
+2,Introduced & Semi Natural Vegetation,Agricultural Research Service,56
+2,Introduced & Semi Natural Vegetation,Bureau of Land Management,1451461
+2,Introduced & Semi Natural Vegetation,Other or Unknown Local Government,670
+2,Introduced & Semi Natural Vegetation,State Fish and Wildlife,285506
+2,Introduced & Semi Natural Vegetation,State Land Board,76
+2,Nonvascular & Sparse Vascular Rock Vegetation,Bureau of Land Management,11428
+2,Nonvascular & Sparse Vascular Rock Vegetation,State Department of Natural Resources,27318
+2,Open Rock Vegetation,Other or Unknown State Land,35168
+2,Open Rock Vegetation,Unknown,1245
+2,Open Water,Army Corps of Engineers,107545
+2,Open Water,County Land,93802
+2,Open Water,Other,13
+2,Open Water,Other or Unknown State Land,613330
+2,Open Water,State Department of Natural Resources,821552
+2,Polar & High Montane Scrub, Grassland & Barrens,Regional Agency Land,6
+2,Polar & High Montane Scrub, Grassland & Barrens,State Department of Conservation,246
+2,Recently Disturbed or Modified,Bureau of Indian Affairs,50
+2,Recently Disturbed or Modified,Bureau of Land Management,369671
+2,Recently Disturbed or Modified,Non-Governmental Organization,580585
+2,Recently Disturbed or Modified,Regional Agency Land,5754
+2,Recently Disturbed or Modified,State Land Board,6635
+2,Shrub & Herb Vegetation,County Land,412364
+2,Shrub & Herb Vegetation,Other,382
+2,Shrub & Herb Vegetation,Other or Unknown State Land,1264786
+2,Shrub & Herb Vegetation,Unknown,1315821
+3,Agricultural & Developed Vegetation,Forest Service,3768824
+3,Agricultural & Developed Vegetation,National Park Service,259956
+3,Aquatic Vegetation,Bureau of Land Management,93234
+3,Desert & Semi-Desert,American Indian Lands,2975
+3,Desert & Semi-Desert,Non-Governmental Organization,819768
+3,Desert & Semi-Desert,State Department of Land,9441118
+3,Developed & Other Human Use,Natural Resources Conservation Service,7272
+3,Developed & Other Human Use,Other or Unknown Federal Land,441
+3,Developed & Other Human Use,Other or Unknown Local Government,1116
+3,Developed & Other Human Use,State Department of Conservation,120164
+3,Developed & Other Human Use,U.S. Fish & Wildlife Service,124658
+3,Forest & Woodland,Agricultural Research Service,13961
+3,Forest & Woodland,Joint,4755836
+3,Forest & Woodland,State Department of Conservation,8070978
+3,Forest & Woodland,State Fish and Wildlife,14007953
+3,Introduced & Semi Natural Vegetation,Bureau of Reclamation,50863
+3,Introduced & Semi Natural Vegetation,Forest Service,3086808
+3,Introduced & Semi Natural Vegetation,National Park Service,114526
+3,Introduced & Semi Natural Vegetation,Regional Agency Land,8238
+1,Agricultural & Developed Vegetation,Bureau of Land Management,5921
+1,Agricultural & Developed Vegetation,Non-Governmental Organization,55071
+1,Agricultural & Developed Vegetation,State Land Board,471
+1,Desert & Semi-Desert,U.S. Fish & Wildlife Service,9704019
+1,Developed & Other Human Use,Army Corps of Engineers,4210
+1,Developed & Other Human Use,Bureau of Land Management,38376
+1,Developed & Other Human Use,State Land Board,45
+1,Forest & Woodland,City Land,149647
+1,Forest & Woodland,Other,508
+1,Forest & Woodland,Regional Water Districts,52796
+1,Introduced & Semi Natural Vegetation,Non-Governmental Organization,1041
+1,Introduced & Semi Natural Vegetation,Other,14
+1,Nonvascular & Sparse Vascular Rock Vegetation,Bureau of Land Management,4775
+1,Nonvascular & Sparse Vascular Rock Vegetation,County Land,1326
+1,Nonvascular & Sparse Vascular Rock Vegetation,Other or Unknown State Land,1395
+1,Open Rock Vegetation,Forest Service,2834720
+1,Open Rock Vegetation,Joint,1276
+1,Open Rock Vegetation,Private,3
+1,Open Rock Vegetation,State Park and Recreation,4371
+1,Open Water,Department of Defense,1
+1,Open Water,Joint,5029
+1,Open Water,Private,722370
+1,Open Water,Tennessee Valley Authority,393
+1,Polar & High Montane Scrub, Grassland & Barrens,Forest Service,32295962
+1,Polar & High Montane Scrub, Grassland & Barrens,State Park and Recreation,5506
+1,Recently Disturbed or Modified,Joint,3574
+1,Recently Disturbed or Modified,Non-Governmental Organization,21990
+1,Recently Disturbed or Modified,Unknown,20478
+1,Shrub & Herb Vegetation,Department of Defense,46
+1,Shrub & Herb Vegetation,Forest Service,28011068
+1,Shrub & Herb Vegetation,Joint,15690
+1,Shrub & Herb Vegetation,Private,291864
+1,Shrub & Herb Vegetation,State Department of Conservation,30008
+1,Shrub & Herb Vegetation,Unknown,56958
+2,Agricultural & Developed Vegetation,Natural Resources Conservation Service,24424024
+2,Agricultural & Developed Vegetation,Other,284
+2,Agricultural & Developed Vegetation,State Department of Land,15621
+2,Agricultural & Developed Vegetation,State Fish and Wildlife,2293587
+2,Aquatic Vegetation,City Land,6
+2,Desert & Semi-Desert,Bureau of Land Management,62139640
+2,Desert & Semi-Desert,County Land,126772
+2,Desert & Semi-Desert,Other or Unknown State Land,720895
+2,Desert & Semi-Desert,Regional Agency Land,34532
+2,Desert & Semi-Desert,State Department of Natural Resources,114226
+2,Desert & Semi-Desert,State Land Board,11195
+2,Developed & Other Human Use,National Park Service,816872
+2,Developed & Other Human Use,State Department of Land,15912
+2,Developed & Other Human Use,State Fish and Wildlife,644711
+2,Forest & Woodland,Bureau of Reclamation,8800
+2,Forest & Woodland,Forest Service,83217334
+2,Forest & Woodland,Other or Unknown Local Government,111694
+2,Introduced & Semi Natural Vegetation,Natural Resources Conservation Service,462480
+2,Introduced & Semi Natural Vegetation,Regional Water Districts,47460
+2,Introduced & Semi Natural Vegetation,State Department of Land,295
+2,Nonvascular & Sparse Vascular Rock Vegetation,City Land,2193
+2,Nonvascular & Sparse Vascular Rock Vegetation,Other,215
+2,Nonvascular & Sparse Vascular Rock Vegetation,Unknown,9318
+2,Open Rock Vegetation,County Land,1614
+2,Open Rock Vegetation,U.S. Fish & Wildlife Service,1023549
+2,Open Water,City Land,93916
+2,Open Water,Regional Water Districts,319924
+2,Polar & High Montane Scrub, Grassland & Barrens,County Land,26
+2,Polar & High Montane Scrub, Grassland & Barrens,U.S. Fish & Wildlife Service,246
+2,Recently Disturbed or Modified,City Land,106866
+2,Recently Disturbed or Modified,Regional Water Districts,52380
+2,Shrub & Herb Vegetation,City Land,178070
+2,Shrub & Herb Vegetation,Regional Water Districts,1363856
+2,Shrub & Herb Vegetation,U.S. Fish & Wildlife Service,7456333
+3,Agricultural & Developed Vegetation,Natural Resources Conservation Service,19596
+3,Agricultural & Developed Vegetation,State Department of Conservation,155738
+3,Agricultural & Developed Vegetation,State Department of Land,115178
+3,Agricultural & Developed Vegetation,State Fish and Wildlife,961186
+3,Desert & Semi-Desert,Bureau of Land Management,475048903
+3,Desert & Semi-Desert,Bureau of Reclamation,3112765
+3,Desert & Semi-Desert,State Department of Natural Resources,7926924
+3,Desert & Semi-Desert,State Land Board,10943404
+3,Developed & Other Human Use,County Land,764525
+3,Developed & Other Human Use,National Park Service,622580
+3,Developed & Other Human Use,Regional Agency Land,170818
+3,Developed & Other Human Use,State Fish and Wildlife,423968
+3,Forest & Woodland,Department of Defense,146359
+3,Forest & Woodland,Forest Service,841655982
+3,Forest & Woodland,Other or Unknown Federal Land,24383
+1,Agricultural & Developed Vegetation,Army Corps of Engineers,2287
+1,Agricultural & Developed Vegetation,National Park Service,201392
+1,Agricultural & Developed Vegetation,State Department of Natural Resources,45630
+1,Aquatic Vegetation,U.S. Fish & Wildlife Service,1348
+1,Desert & Semi-Desert,Regional Agency Land,138
+1,Desert & Semi-Desert,State Park and Recreation,1666126
+1,Developed & Other Human Use,Regional Agency Land,40
+1,Developed & Other Human Use,U.S. Fish & Wildlife Service,158032
+1,Forest & Woodland,State Department of Conservation,5655860
+1,Introduced & Semi Natural Vegetation,Private,12360
+1,Introduced & Semi Natural Vegetation,Unknown,393
+1,Nonvascular & Sparse Vascular Rock Vegetation,Non-Governmental Organization,983
+1,Nonvascular & Sparse Vascular Rock Vegetation,Private,2055
+1,Open Rock Vegetation,City Land,23
+1,Open Water,Bureau of Land Management,298267
+1,Open Water,Non-Governmental Organization,19946
+1,Open Water,State Land Board,10
+1,Polar & High Montane Scrub, Grassland & Barrens,Other or Unknown State Land,17
+1,Recently Disturbed or Modified,Army Corps of Engineers,1191
+1,Recently Disturbed or Modified,Department of Defense,123
+1,Recently Disturbed or Modified,Other or Unknown State Land,29475
+1,Recently Disturbed or Modified,State Department of Natural Resources,37352
+1,Recently Disturbed or Modified,Tennessee Valley Authority,227
+1,Shrub & Herb Vegetation,Regional Agency Land,2234
+1,Shrub & Herb Vegetation,State Park and Recreation,925797
+1,Shrub & Herb Vegetation,U.S. Fish & Wildlife Service,2417934
+2,Agricultural & Developed Vegetation,Other or Unknown State Land,1220322
+2,Agricultural & Developed Vegetation,Unknown,3158877
+2,Aquatic Vegetation,Non-Governmental Organization,5185
+2,Desert & Semi-Desert,National Park Service,18899570
+2,Desert & Semi-Desert,Regional Water Districts,239404
+2,Developed & Other Human Use,Bureau of Indian Affairs,822
+2,Developed & Other Human Use,Non-Governmental Organization,447984
+2,Developed & Other Human Use,Other or Unknown Local Government,22400
+2,Forest & Woodland,Agricultural Research Service,138
+2,Forest & Woodland,Bureau of Indian Affairs,8307
+2,Forest & Woodland,Non-Governmental Organization,10775337
+2,Forest & Woodland,Private,3102225
+2,Forest & Woodland,State Department of Land,223651
+2,Introduced & Semi Natural Vegetation,Army Corps of Engineers,3125
+2,Introduced & Semi Natural Vegetation,National Park Service,208340
+2,Introduced & Semi Natural Vegetation,State Department of Natural Resources,1377
+2,Introduced & Semi Natural Vegetation,Tennessee Valley Authority,7
+2,Nonvascular & Sparse Vascular Rock Vegetation,National Park Service,121070
+2,Nonvascular & Sparse Vascular Rock Vegetation,Natural Resources Conservation Service,21176
+2,Nonvascular & Sparse Vascular Rock Vegetation,Regional Water Districts,28560
+2,Nonvascular & Sparse Vascular Rock Vegetation,State Park and Recreation,18122
+2,Nonvascular & Sparse Vascular Rock Vegetation,Tennessee Valley Authority,8
+2,Open Rock Vegetation,Regional Agency Land,4
+2,Open Rock Vegetation,State Fish and Wildlife,41147
+2,Open Water,Natural Resources Conservation Service,3203252
+2,Open Water,Other or Unknown Federal Land,499
+2,Open Water,Regional Agency Land,971638
+2,Open Water,State Park and Recreation,624045
+2,Polar & High Montane Scrub, Grassland & Barrens,National Park Service,40818
+2,Polar & High Montane Scrub, Grassland & Barrens,State Department of Natural Resources,1423
+2,Recently Disturbed or Modified,Forest Service,2734150
+2,Recently Disturbed or Modified,Other,71
+2,Shrub & Herb Vegetation,Bureau of Indian Affairs,227
+2,Shrub & Herb Vegetation,Non-Governmental Organization,6561861
+2,Shrub & Herb Vegetation,Other or Unknown Local Government,3002
+2,Shrub & Herb Vegetation,State Department of Land,10055
+3,Agricultural & Developed Vegetation,Regional Agency Land,35394
+3,Agricultural & Developed Vegetation,U.S. Fish & Wildlife Service,771584
+3,Aquatic Vegetation,State Department of Natural Resources,8
+3,Desert & Semi-Desert,County Land,310798
+3,Desert & Semi-Desert,Other or Unknown State Land,9029757
+3,Desert & Semi-Desert,Unknown,12534
+3,Developed & Other Human Use,Department of Defense,45690
+3,Developed & Other Human Use,Other or Unknown State Land,853673
+3,Developed & Other Human Use,State Department of Natural Resources,1805518
+3,Developed & Other Human Use,State Park and Recreation,511395
+3,Developed & Other Human Use,Tennessee Valley Authority,132046
+3,Forest & Woodland,Army Corps of Engineers,85754
+3,Forest & Woodland,National Park Service,9063708
+3,Forest & Woodland,Other,31081
+3,Forest & Woodland,Regional Water Districts,17952176
+3,Forest & Woodland,State Department of Natural Resources,40490204
+3,Forest & Woodland,Tennessee Valley Authority,890180
+3,Introduced & Semi Natural Vegetation,City Land,13692
+3,Recently Disturbed or Modified,Private,786210
+3,Recently Disturbed or Modified,Regional Water Districts,853580
+3,Recently Disturbed or Modified,Tennessee Valley Authority,82221
+3,Shrub & Herb Vegetation,Natural Resources Conservation Service,3144
+3,Shrub & Herb Vegetation,Other or Unknown Federal Land,38
+3,Shrub & Herb Vegetation,State Department of Conservation,37784
+3,Shrub & Herb Vegetation,U.S. Fish & Wildlife Service,656530
+4,Agricultural & Developed Vegetation,Other,156
+4,Aquatic Vegetation,Bureau of Indian Affairs,316
+4,Aquatic Vegetation,City Land,80
+4,Desert & Semi-Desert,National Park Service,5776780
+4,Desert & Semi-Desert,Non-Governmental Organization,1341455
+4,Desert & Semi-Desert,Regional Agency Land,920398
+4,Developed & Other Human Use,National Oceanic and Atmospheric Administration,22
+4,Developed & Other Human Use,Natural Resources Conservation Service,38232
+4,Developed & Other Human Use,Non-Governmental Organization,526484
+4,Developed & Other Human Use,Other or Unknown Local Government,125732
+4,Developed & Other Human Use,State Department of Conservation,136979
+4,Forest & Woodland,Agricultural Research Service,25699
+4,Forest & Woodland,American Indian Lands,130843
+4,Forest & Woodland,Bureau of Indian Affairs,84185637
+4,Forest & Woodland,Other or Unknown Local Government,510138
+4,Forest & Woodland,State Fish and Wildlife,984902
+4,Introduced & Semi Natural Vegetation,American Indian Lands,2333
+4,Introduced & Semi Natural Vegetation,Bureau of Reclamation,3819
+4,Introduced & Semi Natural Vegetation,Forest Service,440
+4,Introduced & Semi Natural Vegetation,Regional Water Districts,2092
+4,Nonvascular & Sparse Vascular Rock Vegetation,American Indian Lands,18
+4,Nonvascular & Sparse Vascular Rock Vegetation,Department of Defense,242920
+4,Nonvascular & Sparse Vascular Rock Vegetation,Private,6078
+4,Nonvascular & Sparse Vascular Rock Vegetation,Regional Water Districts,11280
+4,Open Rock Vegetation,Agricultural Research Service,7819
+4,Open Rock Vegetation,Bureau of Indian Affairs,1429602
+4,Open Rock Vegetation,Bureau of Land Management,1290
+4,Open Rock Vegetation,Regional Agency Land,130
+4,Open Rock Vegetation,State Fish and Wildlife,1101
+4,Open Rock Vegetation,State Land Board,48179
+4,Open Rock Vegetation,U.S. Fish & Wildlife Service,2269
+4,Open Water,Bureau of Indian Affairs,4208335
+4,Open Water,Bureau of Land Management,31
+4,Open Water,Other or Unknown Federal Land,1249
+4,Open Water,State Land Board,110298
+4,Polar & High Montane Scrub, Grassland & Barrens,Other or Unknown State Land,422
+4,Recently Disturbed or Modified,State Department of Natural Resources,82242
+4,Shrub & Herb Vegetation,Bureau of Indian Affairs,58922830
+4,Shrub & Herb Vegetation,Bureau of Land Management,1519
+4,Shrub & Herb Vegetation,Other or Unknown Federal Land,2286
+4,Shrub & Herb Vegetation,Regional Agency Land,215510
+4,Shrub & Herb Vegetation,State Land Board,13704937
+4,Shrub & Herb Vegetation,State Park and Recreation,832412
+4,Shrub & Herb Vegetation,U.S. Fish & Wildlife Service,2020205
+3,Nonvascular & Sparse Vascular Rock Vegetation,Joint,7057
+3,Nonvascular & Sparse Vascular Rock Vegetation,State Department of Natural Resources,142883
+3,Open Rock Vegetation,Bureau of Reclamation,21559
+3,Open Rock Vegetation,Other or Unknown State Land,52650
+3,Open Rock Vegetation,State Park and Recreation,7521
+3,Open Water,Army Corps of Engineers,260592
+3,Open Water,Department of Defense,148596
+3,Open Water,National Park Service,2658554
+3,Open Water,State Department of Natural Resources,2219298
+3,Open Water,Tennessee Valley Authority,131604
+3,Polar & High Montane Scrub, Grassland & Barrens,State Fish and Wildlife,5736
+3,Polar & High Montane Scrub, Grassland & Barrens,U.S. Fish & Wildlife Service,1
+3,Recently Disturbed or Modified,City Land,98095
+3,Recently Disturbed or Modified,State Department of Conservation,157756
+3,Recently Disturbed or Modified,U.S. Fish & Wildlife Service,51543
+3,Shrub & Herb Vegetation,Forest Service,124742352
+3,Shrub & Herb Vegetation,Other,460
+3,Shrub & Herb Vegetation,Private,810807
+4,Agricultural & Developed Vegetation,Agricultural Research Service,35710
+4,Agricultural & Developed Vegetation,Department of Energy,44272
+4,Agricultural & Developed Vegetation,Regional Agency Land,35506
+4,Agricultural & Developed Vegetation,U.S. Fish & Wildlife Service,764192
+4,Aquatic Vegetation,Department of Defense,77
+4,Aquatic Vegetation,National Park Service,290
+4,Desert & Semi-Desert,City Land,2813255
+4,Desert & Semi-Desert,County Land,263968
+4,Desert & Semi-Desert,Other or Unknown State Land,741067
+4,Desert & Semi-Desert,Unknown,124482
+4,Developed & Other Human Use,County Land,831372
+4,Developed & Other Human Use,Other or Unknown State Land,462256
+4,Developed & Other Human Use,State Department of Natural Resources,111612
+4,Forest & Woodland,Army Corps of Engineers,5904335
+4,Forest & Woodland,National Park Service,3954518
+4,Forest & Woodland,State Department of Natural Resources,1459046
+4,Forest & Woodland,Tennessee Valley Authority,364
+4,Introduced & Semi Natural Vegetation,City Land,128148
+4,Introduced & Semi Natural Vegetation,Other or Unknown Local Government,1410
+4,Introduced & Semi Natural Vegetation,State Department of Conservation,5933
+4,Nonvascular & Sparse Vascular Rock Vegetation,County Land,7553
+4,Nonvascular & Sparse Vascular Rock Vegetation,Unknown,14829
+4,Open Rock Vegetation,Forest Service,124
+4,Open Rock Vegetation,National Park Service,709314
+4,Open Water,Other,140
+4,Open Water,Private,385215
+4,Open Water,Unknown,190512
+4,Polar & High Montane Scrub, Grassland & Barrens,Bureau of Indian Affairs,482388
+4,Polar & High Montane Scrub, Grassland & Barrens,City Land,1085
+4,Polar & High Montane Scrub, Grassland & Barrens,State Department of Conservation,3
+4,Recently Disturbed or Modified,Bureau of Indian Affairs,2642561
+4,Recently Disturbed or Modified,State Fish and Wildlife,158973
+4,Recently Disturbed or Modified,State Land Board,291191
+4,Shrub & Herb Vegetation,Army Corps of Engineers,1461535
+4,Shrub & Herb Vegetation,County Land,517362
+4,Shrub & Herb Vegetation,Other or Unknown State Land,1565012
+4,Shrub & Herb Vegetation,State Department of Natural Resources,67816
+3,Open Rock Vegetation,Tennessee Valley Authority,1643
+3,Open Rock Vegetation,Unknown,1443
+3,Open Water,Forest Service,6200608
+3,Open Water,Non-Governmental Organization,94261
+3,Polar & High Montane Scrub, Grassland & Barrens,Non-Governmental Organization,21
+3,Polar & High Montane Scrub, Grassland & Barrens,Private,39
+3,Recently Disturbed or Modified,Agricultural Research Service,8
+3,Recently Disturbed or Modified,Other or Unknown Federal Land,1203
+3,Recently Disturbed or Modified,State Park and Recreation,147691
+3,Recently Disturbed or Modified,Unknown,159447
+3,Shrub & Herb Vegetation,Agricultural Research Service,36678
+3,Shrub & Herb Vegetation,Bureau of Reclamation,967680
+3,Shrub & Herb Vegetation,Joint,367263
+3,Shrub & Herb Vegetation,State Park and Recreation,1215571
+4,Agricultural & Developed Vegetation,American Indian Lands,84946
+4,Agricultural & Developed Vegetation,State Department of Land,524596
+4,Aquatic Vegetation,County Land,251
+4,Desert & Semi-Desert,Department of Defense,48139491
+4,Desert & Semi-Desert,Natural Resources Conservation Service,10656
+4,Desert & Semi-Desert,State Department of Conservation,3
+4,Desert & Semi-Desert,State Department of Natural Resources,3277
+4,Developed & Other Human Use,City Land,1758191
+4,Developed & Other Human Use,National Park Service,1409320
+4,Developed & Other Human Use,Regional Water Districts,199788
+4,Forest & Woodland,Bureau of Land Management,149
+4,Forest & Woodland,Forest Service,227272
+4,Forest & Woodland,Non-Governmental Organization,10710215
+4,Forest & Woodland,Private,10666689
+4,Forest & Woodland,State Land Board,8951088
+4,Introduced & Semi Natural Vegetation,County Land,73002
+4,Introduced & Semi Natural Vegetation,Natural Resources Conservation Service,1280
+4,Introduced & Semi Natural Vegetation,Other or Unknown State Land,31821
+4,Introduced & Semi Natural Vegetation,Regional Agency Land,18550
+4,Introduced & Semi Natural Vegetation,State Department of Natural Resources,2157
+4,Nonvascular & Sparse Vascular Rock Vegetation,Other or Unknown Federal Land,461
+4,Nonvascular & Sparse Vascular Rock Vegetation,U.S. Fish & Wildlife Service,1099
+4,Open Rock Vegetation,American Indian Lands,2085
+4,Open Rock Vegetation,County Land,3252
+4,Open Rock Vegetation,State Department of Land,527
+4,Open Rock Vegetation,State Department of Natural Resources,40
+4,Open Water,American Indian Lands,1221
+4,Open Water,Regional Agency Land,65384
+4,Open Water,State Fish and Wildlife,87046
+4,Open Water,U.S. Fish & Wildlife Service,533152
+4,Polar & High Montane Scrub, Grassland & Barrens,County Land,1693
+4,Polar & High Montane Scrub, Grassland & Barrens,State Department of Natural Resources,2
+4,Recently Disturbed or Modified,Other or Unknown Local Government,12270
+4,Recently Disturbed or Modified,Regional Water Districts,533408
+4,Recently Disturbed or Modified,State Department of Land,138511
+4,Shrub & Herb Vegetation,City Land,594677
+4,Shrub & Herb Vegetation,National Oceanic and Atmospheric Administration,4073
+4,Shrub & Herb Vegetation,National Park Service,778334
+4,Shrub & Herb Vegetation,Regional Water Districts,1233868
+3,Introduced & Semi Natural Vegetation,State Park and Recreation,61843
+3,Nonvascular & Sparse Vascular Rock Vegetation,American Indian Lands,152
+3,Nonvascular & Sparse Vascular Rock Vegetation,Bureau of Reclamation,3393
+3,Nonvascular & Sparse Vascular Rock Vegetation,Other or Unknown Federal Land,5
+3,Nonvascular & Sparse Vascular Rock Vegetation,Other or Unknown Local Government,14
+3,Nonvascular & Sparse Vascular Rock Vegetation,Regional Water Districts,34428
+3,Open Rock Vegetation,Bureau of Land Management,3950730
+3,Open Rock Vegetation,City Land,4100
+3,Open Rock Vegetation,State Land Board,149280
+3,Open Water,Agricultural Research Service,933
+3,Open Water,Bureau of Land Management,14864036
+3,Open Water,State Fish and Wildlife,1095308
+3,Open Water,State Land Board,227388
+3,Polar & High Montane Scrub, Grassland & Barrens,Other or Unknown State Land,15402
+3,Recently Disturbed or Modified,Army Corps of Engineers,7250
+3,Recently Disturbed or Modified,Bureau of Reclamation,2304
+3,Recently Disturbed or Modified,National Park Service,82102
+3,Recently Disturbed or Modified,State Department of Natural Resources,2936022
+3,Shrub & Herb Vegetation,Bureau of Land Management,59609361
+3,Shrub & Herb Vegetation,State Land Board,16710125
+4,Agricultural & Developed Vegetation,National Park Service,1197152
+4,Agricultural & Developed Vegetation,Other or Unknown State Land,2575054
+4,Desert & Semi-Desert,Agricultural Research Service,92592
+4,Desert & Semi-Desert,American Indian Lands,8123
+4,Desert & Semi-Desert,Bureau of Reclamation,397831
+4,Desert & Semi-Desert,Other or Unknown Local Government,564
+4,Desert & Semi-Desert,Regional Water Districts,248
+4,Desert & Semi-Desert,State Department of Land,26710456
+4,Desert & Semi-Desert,State Park and Recreation,685331
+4,Developed & Other Human Use,Bureau of Indian Affairs,5090088
+4,Developed & Other Human Use,Bureau of Land Management,30
+4,Developed & Other Human Use,Other or Unknown Federal Land,12762
+4,Developed & Other Human Use,Regional Agency Land,90222
+4,Developed & Other Human Use,State Land Board,494065
+4,Developed & Other Human Use,U.S. Fish & Wildlife Service,90755
+4,Forest & Woodland,City Land,1895160
+4,Forest & Woodland,State Department of Conservation,3814335
+4,Introduced & Semi Natural Vegetation,Department of Defense,526153
+4,Introduced & Semi Natural Vegetation,National Park Service,50550
+4,Introduced & Semi Natural Vegetation,Private,36339
+4,Introduced & Semi Natural Vegetation,Tennessee Valley Authority,16
+4,Nonvascular & Sparse Vascular Rock Vegetation,Agricultural Research Service,217
+4,Nonvascular & Sparse Vascular Rock Vegetation,Bureau of Reclamation,875
+4,Nonvascular & Sparse Vascular Rock Vegetation,National Park Service,9498
+4,Nonvascular & Sparse Vascular Rock Vegetation,Natural Resources Conservation Service,720
+4,Nonvascular & Sparse Vascular Rock Vegetation,Non-Governmental Organization,21690
+4,Nonvascular & Sparse Vascular Rock Vegetation,Regional Agency Land,288
+4,Nonvascular & Sparse Vascular Rock Vegetation,State Department of Conservation,5309
+4,Open Rock Vegetation,City Land,1592
+4,Open Rock Vegetation,Department of Energy,734
+4,Open Rock Vegetation,Other or Unknown Local Government,54
+4,Open Water,Agricultural Research Service,4235
+4,Open Water,Natural Resources Conservation Service,4392
+4,Open Water,State Department of Conservation,279275
+4,Recently Disturbed or Modified,Army Corps of Engineers,251841
+4,Recently Disturbed or Modified,Department of Defense,1134516
+4,Recently Disturbed or Modified,Forest Service,18872
+4,Recently Disturbed or Modified,National Park Service,69990
+4,Recently Disturbed or Modified,Other,124
+4,Recently Disturbed or Modified,Private,138846
+4,Recently Disturbed or Modified,Tennessee Valley Authority,200
+4,Shrub & Herb Vegetation,Natural Resources Conservation Service,64832
+4,Shrub & Herb Vegetation,Non-Governmental Organization,2739444
+4,Shrub & Herb Vegetation,Other or Unknown Local Government,6920
+4,Shrub & Herb Vegetation,State Department of Conservation,80972
+4,Shrub & Herb Vegetation,State Department of Land,1545992
+3,Introduced & Semi Natural Vegetation,County Land,10486
+3,Introduced & Semi Natural Vegetation,Other or Unknown Local Government,2
+3,Nonvascular & Sparse Vascular Rock Vegetation,County Land,9175
+3,Nonvascular & Sparse Vascular Rock Vegetation,Other or Unknown State Land,4663
+3,Nonvascular & Sparse Vascular Rock Vegetation,Unknown,22086
+3,Open Rock Vegetation,Forest Service,4453066
+3,Open Rock Vegetation,National Park Service,32204
+3,Open Rock Vegetation,State Department of Land,1731
+3,Open Water,Private,485304
+3,Open Water,Unknown,198180
+3,Polar & High Montane Scrub, Grassland & Barrens,Bureau of Land Management,276578
+3,Polar & High Montane Scrub, Grassland & Barrens,City Land,19179
+3,Polar & High Montane Scrub, Grassland & Barrens,County Land,117
+3,Polar & High Montane Scrub, Grassland & Barrens,State Land Board,9778
+3,Recently Disturbed or Modified,Bureau of Land Management,5103651
+3,Recently Disturbed or Modified,Joint,283976
+3,Recently Disturbed or Modified,State Fish and Wildlife,464288
+3,Recently Disturbed or Modified,State Land Board,615062
+3,Shrub & Herb Vegetation,Army Corps of Engineers,21868
+3,Shrub & Herb Vegetation,Department of Defense,52748
+3,Shrub & Herb Vegetation,Other or Unknown State Land,2506808
+3,Shrub & Herb Vegetation,State Department of Natural Resources,10093979
+3,Shrub & Herb Vegetation,Tennessee Valley Authority,1459
+4,Agricultural & Developed Vegetation,Bureau of Indian Affairs,35851963
+4,Agricultural & Developed Vegetation,City Land,511722
+4,Agricultural & Developed Vegetation,National Oceanic and Atmospheric Administration,98
+4,Agricultural & Developed Vegetation,Other or Unknown Local Government,109726
+4,Agricultural & Developed Vegetation,State Department of Conservation,823799
+4,Desert & Semi-Desert,Department of Energy,5461074
+4,Desert & Semi-Desert,Joint,165051
+4,Desert & Semi-Desert,State Fish and Wildlife,105903
+4,Developed & Other Human Use,Forest Service,6510
+4,Developed & Other Human Use,Other,790
+4,Forest & Woodland,Unknown,3795624
+4,Introduced & Semi Natural Vegetation,Agricultural Research Service,33
+4,Introduced & Semi Natural Vegetation,Department of Energy,61159
+4,Introduced & Semi Natural Vegetation,Joint,1097688
+4,Introduced & Semi Natural Vegetation,State Fish and Wildlife,3199
+4,Introduced & Semi Natural Vegetation,U.S. Fish & Wildlife Service,60607
+4,Nonvascular & Sparse Vascular Rock Vegetation,Army Corps of Engineers,74377
+4,Nonvascular & Sparse Vascular Rock Vegetation,Joint,3358
+4,Nonvascular & Sparse Vascular Rock Vegetation,State Department of Natural Resources,3473
+4,Nonvascular & Sparse Vascular Rock Vegetation,State Fish and Wildlife,18329
+4,Open Rock Vegetation,Bureau of Reclamation,210
+4,Open Rock Vegetation,Other or Unknown State Land,7299
+4,Open Water,Army Corps of Engineers,16298809
+4,Open Water,Department of Defense,320325
+4,Open Water,Other or Unknown State Land,5307585
+4,Open Water,State Department of Natural Resources,174649
+4,Open Water,Tennessee Valley Authority,5875
+4,Polar & High Montane Scrub, Grassland & Barrens,Department of Energy,38
+4,Polar & High Montane Scrub, Grassland & Barrens,State Fish and Wildlife,2
+4,Polar & High Montane Scrub, Grassland & Barrens,U.S. Fish & Wildlife Service,9
+4,Recently Disturbed or Modified,City Land,114041
+4,Recently Disturbed or Modified,Natural Resources Conservation Service,11304
+4,Recently Disturbed or Modified,Other or Unknown Federal Land,265
+4,Recently Disturbed or Modified,State Department of Conservation,97298
+4,Recently Disturbed or Modified,U.S. Fish & Wildlife Service,18913
+4,Shrub & Herb Vegetation,Forest Service,46636
+4,Shrub & Herb Vegetation,Other,1609
+3,Forest & Woodland,Private,4029249
+3,Forest & Woodland,State Park and Recreation,6030633
+3,Introduced & Semi Natural Vegetation,State Department of Conservation,15164
+3,Nonvascular & Sparse Vascular Rock Vegetation,National Park Service,16628
+3,Nonvascular & Sparse Vascular Rock Vegetation,Natural Resources Conservation Service,16
+3,Nonvascular & Sparse Vascular Rock Vegetation,Other,315
+3,Nonvascular & Sparse Vascular Rock Vegetation,State Department of Land,64
+3,Nonvascular & Sparse Vascular Rock Vegetation,State Fish and Wildlife,46920
+3,Open Rock Vegetation,Regional Water Districts,12
+3,Open Rock Vegetation,State Department of Natural Resources,665888
+3,Open Water,American Indian Lands,12924
+3,Open Water,Natural Resources Conservation Service,612
+3,Open Water,Regional Water Districts,1030272
+3,Open Water,State Department of Land,106877
+3,Polar & High Montane Scrub, Grassland & Barrens,State Department of Natural Resources,3000
+3,Recently Disturbed or Modified,American Indian Lands,3277
+3,Recently Disturbed or Modified,Natural Resources Conservation Service,14468
+3,Recently Disturbed or Modified,Other or Unknown Local Government,46
+3,Recently Disturbed or Modified,State Department of Land,344404
+3,Shrub & Herb Vegetation,American Indian Lands,1804
+3,Shrub & Herb Vegetation,City Land,1525652
+3,Shrub & Herb Vegetation,Other or Unknown Local Government,82
+3,Shrub & Herb Vegetation,Regional Water Districts,3366516
+3,Shrub & Herb Vegetation,State Department of Land,945209
+4,Agricultural & Developed Vegetation,Department of Defense,1376925
+4,Agricultural & Developed Vegetation,Forest Service,59652
+4,Agricultural & Developed Vegetation,Joint,6556974
+4,Agricultural & Developed Vegetation,Other or Unknown Federal Land,2220
+4,Agricultural & Developed Vegetation,Private,2910492
+4,Agricultural & Developed Vegetation,State Park and Recreation,166307
+4,Agricultural & Developed Vegetation,Tennessee Valley Authority,285
+4,Agricultural & Developed Vegetation,Unknown,2215821
+4,Desert & Semi-Desert,Army Corps of Engineers,148878
+4,Developed & Other Human Use,Department of Defense,3983702
+4,Developed & Other Human Use,Joint,886602
+4,Developed & Other Human Use,Private,1053249
+4,Developed & Other Human Use,State Park and Recreation,127731
+4,Developed & Other Human Use,Tennessee Valley Authority,124
+4,Developed & Other Human Use,Unknown,395034
+4,Forest & Woodland,County Land,1956992
+4,Forest & Woodland,Other or Unknown State Land,3888085
+4,Forest & Woodland,Regional Agency Land,377306
+4,Forest & Woodland,U.S. Fish & Wildlife Service,568296
+4,Introduced & Semi Natural Vegetation,Other or Unknown Federal Land,118
+4,Introduced & Semi Natural Vegetation,State Park and Recreation,61424
+4,Introduced & Semi Natural Vegetation,Unknown,20826
+4,Nonvascular & Sparse Vascular Rock Vegetation,Department of Energy,4432
+4,Nonvascular & Sparse Vascular Rock Vegetation,Forest Service,1178
+4,Nonvascular & Sparse Vascular Rock Vegetation,Other or Unknown Local Government,1440
+4,Nonvascular & Sparse Vascular Rock Vegetation,State Park and Recreation,6760
+4,Nonvascular & Sparse Vascular Rock Vegetation,Tennessee Valley Authority,521
+4,Open Rock Vegetation,Army Corps of Engineers,95315
+4,Open Rock Vegetation,Non-Governmental Organization,19257
+4,Open Water,Bureau of Reclamation,6877
+4,Open Water,Department of Energy,23457
+4,Open Water,Forest Service,2652
+4,Open Water,Other or Unknown Local Government,8828
+4,Open Water,State Park and Recreation,286418
+4,Polar & High Montane Scrub, Grassland & Barrens,Non-Governmental Organization,2277
+4,Polar & High Montane Scrub, Grassland & Barrens,State Land Board,156
+4,Recently Disturbed or Modified,Bureau of Reclamation,8376
+4,Recently Disturbed or Modified,Department of Energy,522346
+4,Recently Disturbed or Modified,State Park and Recreation,89469
+4,Shrub & Herb Vegetation,Agricultural Research Service,210114
+4,Shrub & Herb Vegetation,Bureau of Reclamation,15200
+4,Shrub & Herb Vegetation,Department of Energy,123821
+1,Agricultural & Developed Vegetation,Department of Defense,43
+1,Agricultural & Developed Vegetation,Forest Service,46936
+1,Agricultural & Developed Vegetation,Joint,5154
+1,Agricultural & Developed Vegetation,Private,924045
+1,Agricultural & Developed Vegetation,State Park and Recreation,76594
+1,Agricultural & Developed Vegetation,Tennessee Valley Authority,488
+1,Desert & Semi-Desert,Non-Governmental Organization,12429
+1,Developed & Other Human Use,Department of Defense,121
+1,Developed & Other Human Use,Forest Service,153184
+1,Developed & Other Human Use,Joint,4340
+1,Developed & Other Human Use,Private,306114
+1,Developed & Other Human Use,State Department of Conservation,19651
+1,Developed & Other Human Use,State Park and Recreation,86104
+1,Developed & Other Human Use,Tennessee Valley Authority,423
+1,Developed & Other Human Use,Unknown,22881
+1,Forest & Woodland,County Land,185809
+1,Forest & Woodland,National Park Service,60208308
+1,Forest & Woodland,Regional Agency Land,2962
+1,Forest & Woodland,State Fish and Wildlife,121368
+1,Forest & Woodland,U.S. Fish & Wildlife Service,4317688
+1,Introduced & Semi Natural Vegetation,Forest Service,428880
+1,Introduced & Semi Natural Vegetation,State Park and Recreation,17546
+1,Nonvascular & Sparse Vascular Rock Vegetation,Forest Service,520126
+1,Open Rock Vegetation,Bureau of Land Management,21234
+1,Open Rock Vegetation,Non-Governmental Organization,94
+1,Open Water,Forest Service,2953946
+1,Polar & High Montane Scrub, Grassland & Barrens,Bureau of Land Management,76107
+1,Recently Disturbed or Modified,State Park and Recreation,31550
+2,Agricultural & Developed Vegetation,County Land,219627
+2,Agricultural & Developed Vegetation,U.S. Fish & Wildlife Service,3542140
+2,Aquatic Vegetation,County Land,31
+2,Aquatic Vegetation,National Park Service,494
+2,Aquatic Vegetation,State Fish and Wildlife,3693
+2,Desert & Semi-Desert,Forest Service,3058482
+2,Desert & Semi-Desert,Natural Resources Conservation Service,1920664
+2,Desert & Semi-Desert,State Department of Land,370818
+2,Developed & Other Human Use,City Land,140432
+2,Developed & Other Human Use,Regional Water Districts,296744
+2,Developed & Other Human Use,U.S. Fish & Wildlife Service,655352
+2,Forest & Woodland,Bureau of Land Management,21149295
+2,Forest & Woodland,Joint,2511558
+2,Forest & Woodland,State Land Board,9362
+2,Forest & Woodland,Tennessee Valley Authority,52543
+2,Introduced & Semi Natural Vegetation,County Land,26820
+2,Introduced & Semi Natural Vegetation,Other or Unknown State Land,78208
+2,Introduced & Semi Natural Vegetation,Regional Agency Land,410
+2,Introduced & Semi Natural Vegetation,U.S. Fish & Wildlife Service,375286
+2,Nonvascular & Sparse Vascular Rock Vegetation,Army Corps of Engineers,205
+2,Nonvascular & Sparse Vascular Rock Vegetation,U.S. Fish & Wildlife Service,53777
+2,Open Rock Vegetation,Natural Resources Conservation Service,15060
+2,Open Rock Vegetation,State Department of Land,6
+2,Open Water,National Park Service,8481304
+2,Open Water,State Fish and Wildlife,1617599
+2,Open Water,U.S. Fish & Wildlife Service,6393996
+2,Polar & High Montane Scrub, Grassland & Barrens,Natural Resources Conservation Service,1996
+2,Recently Disturbed or Modified,National Park Service,755876
+2,Recently Disturbed or Modified,State Fish and Wildlife,632277
+2,Shrub & Herb Vegetation,Army Corps of Engineers,23047
+2,Shrub & Herb Vegetation,National Park Service,3768906
+2,Shrub & Herb Vegetation,State Fish and Wildlife,3722235
+3,Agricultural & Developed Vegetation,American Indian Lands,2690
+3,Agricultural & Developed Vegetation,Regional Water Districts,4502500
+3,Agricultural & Developed Vegetation,State Department of Natural Resources,4584129
+3,Aquatic Vegetation,County Land,56
+3,Aquatic Vegetation,Other or Unknown State Land,352
+3,Aquatic Vegetation,Regional Agency Land,2
+3,Desert & Semi-Desert,Department of Defense,5
+3,Desert & Semi-Desert,Forest Service,126229292
+3,Desert & Semi-Desert,Joint,3973
+3,Desert & Semi-Desert,Private,17646
+3,Developed & Other Human Use,American Indian Lands,707
+3,Developed & Other Human Use,City Land,1210914
+3,Developed & Other Human Use,Regional Water Districts,812840
+3,Forest & Woodland,Bureau of Land Management,105745428
+3,Forest & Woodland,Non-Governmental Organization,3885805
+3,Forest & Woodland,State Land Board,5735835
+3,Introduced & Semi Natural Vegetation,Bureau of Land Management,10754163
+3,Introduced & Semi Natural Vegetation,Other or Unknown State Land,300240
+3,Introduced & Semi Natural Vegetation,State Department of Natural Resources,849936
+3,Introduced & Semi Natural Vegetation,State Land Board,393132
+3,Nonvascular & Sparse Vascular Rock Vegetation,U.S. Fish & Wildlife Service,33589
+3,Open Rock Vegetation,Regional Agency Land,352
+3,Open Rock Vegetation,State Department of Conservation,90
+3,Open Water,County Land,271315
+3,Open Water,Other or Unknown State Land,1944998
+3,Open Water,Regional Agency Land,70360
+3,Open Water,U.S. Fish & Wildlife Service,826676
+3,Polar & High Montane Scrub, Grassland & Barrens,State Department of Conservation,1829
+3,Polar & High Montane Scrub, Grassland & Barrens,State Department of Land,942
+3,Recently Disturbed or Modified,County Land,140565
+3,Recently Disturbed or Modified,Other or Unknown State Land,622930
+3,Recently Disturbed or Modified,Regional Agency Land,2718
+3,Shrub & Herb Vegetation,County Land,736432
+3,Shrub & Herb Vegetation,National Park Service,3270810
+3,Shrub & Herb Vegetation,Regional Agency Land,618186
+3,Shrub & Herb Vegetation,State Fish and Wildlife,6535383
+4,Agricultural & Developed Vegetation,Army Corps of Engineers,1196100
+4,Agricultural & Developed Vegetation,Bureau of Land Management,764
+4,Agricultural & Developed Vegetation,Bureau of Reclamation,34128
+4,Agricultural & Developed Vegetation,Non-Governmental Organization,3084697
+4,Agricultural & Developed Vegetation,State Land Board,902577
+4,Aquatic Vegetation,Non-Governmental Organization,99
+4,Desert & Semi-Desert,Other or Unknown Federal Land,2
+4,Desert & Semi-Desert,U.S. Fish & Wildlife Service,162446
+4,Developed & Other Human Use,Agricultural Research Service,12072
+4,Developed & Other Human Use,Army Corps of Engineers,604462
+4,Developed & Other Human Use,Bureau of Reclamation,30592
+4,Developed & Other Human Use,Department of Energy,126425
+4,Forest & Woodland,National Oceanic and Atmospheric Administration,957
+4,Forest & Woodland,Natural Resources Conservation Service,164600
+4,Forest & Woodland,Other,4823
+4,Forest & Woodland,Regional Water Districts,3618000
+4,Forest & Woodland,State Department of Land,6252511
+4,Introduced & Semi Natural Vegetation,Army Corps of Engineers,127160
+4,Introduced & Semi Natural Vegetation,Non-Governmental Organization,90871
+4,Introduced & Semi Natural Vegetation,Other,531
+4,Nonvascular & Sparse Vascular Rock Vegetation,Bureau of Indian Affairs,935089
+4,Nonvascular & Sparse Vascular Rock Vegetation,Other or Unknown State Land,7729
+4,Nonvascular & Sparse Vascular Rock Vegetation,State Land Board,5581
+4,Open Rock Vegetation,Department of Defense,26976
+4,Open Rock Vegetation,Joint,560
+4,Open Rock Vegetation,Private,30285
+4,Open Rock Vegetation,State Park and Recreation,73737
+4,Open Rock Vegetation,Unknown,534
+4,Open Water,Joint,325071
+4,Open Water,Non-Governmental Organization,199662
+4,Polar & High Montane Scrub, Grassland & Barrens,Department of Defense,5611
+4,Polar & High Montane Scrub, Grassland & Barrens,Forest Service,1948
+4,Polar & High Montane Scrub, Grassland & Barrens,Private,43221
+4,Polar & High Montane Scrub, Grassland & Barrens,State Park and Recreation,34048
+4,Polar & High Montane Scrub, Grassland & Barrens,Unknown,4923
+4,Recently Disturbed or Modified,Joint,207537
+4,Recently Disturbed or Modified,Non-Governmental Organization,510322
+4,Recently Disturbed or Modified,Unknown,194223
+4,Shrub & Herb Vegetation,Department of Defense,13166306
+4,Shrub & Herb Vegetation,Joint,4284720
+4,Shrub & Herb Vegetation,Private,3782688
+4,Shrub & Herb Vegetation,Unknown,638403
+1,Agricultural & Developed Vegetation,County Land,15648
+1,Agricultural & Developed Vegetation,State Fish and Wildlife,15649
+1,Aquatic Vegetation,County Land,100
+1,Desert & Semi-Desert,Forest Service,17642880
+1,Developed & Other Human Use,City Land,10212
+1,Forest & Woodland,Bureau of Land Management,6955002
+1,Forest & Woodland,Department of Defense,1455
+1,Forest & Woodland,State Land Board,796
+1,Forest & Woodland,State Park and Recreation,2875324
+1,Nonvascular & Sparse Vascular Rock Vegetation,U.S. Fish & Wildlife Service,40966
+1,Open Water,National Park Service,7273240
+1,Open Water,Regional Water Districts,24
+1,Open Water,State Fish and Wildlife,4532
+1,Open Water,U.S. Fish & Wildlife Service,5564352
+1,Recently Disturbed or Modified,City Land,6495
+1,Recently Disturbed or Modified,County Land,8697
+1,Recently Disturbed or Modified,National Park Service,3638140
+1,Recently Disturbed or Modified,Regional Water Districts,4508
+1,Shrub & Herb Vegetation,City Land,4082
+2,Agricultural & Developed Vegetation,Department of Defense,178
+2,Agricultural & Developed Vegetation,Other or Unknown Federal Land,5040
+2,Agricultural & Developed Vegetation,State Park and Recreation,140139
+2,Agricultural & Developed Vegetation,Tennessee Valley Authority,7550
+2,Desert & Semi-Desert,Non-Governmental Organization,3770438
+2,Developed & Other Human Use,Bureau of Land Management,364487
+2,Developed & Other Human Use,Department of Defense,15
+2,Developed & Other Human Use,Joint,85811
+2,Developed & Other Human Use,State Department of Natural Resources,592029
+2,Developed & Other Human Use,State Land Board,1006
+2,Developed & Other Human Use,State Park and Recreation,266493
+2,Developed & Other Human Use,Tennessee Valley Authority,1242
+2,Forest & Woodland,National Park Service,14169950
+2,Forest & Woodland,Other,1432
+2,Forest & Woodland,Regional Water Districts,2005756
+2,Forest & Woodland,State Fish and Wildlife,12011044
+2,Forest & Woodland,U.S. Fish & Wildlife Service,10606934
+2,Introduced & Semi Natural Vegetation,Forest Service,33098
+2,Introduced & Semi Natural Vegetation,Non-Governmental Organization,195303
+2,Nonvascular & Sparse Vascular Rock Vegetation,County Land,6129
+2,Nonvascular & Sparse Vascular Rock Vegetation,Other or Unknown Local Government,692
+2,Nonvascular & Sparse Vascular Rock Vegetation,Other or Unknown State Land,15206
+2,Nonvascular & Sparse Vascular Rock Vegetation,State Department of Conservation,25795
+2,Open Rock Vegetation,Forest Service,231618
+2,Open Rock Vegetation,Non-Governmental Organization,79144
+2,Open Rock Vegetation,Private,8166
+2,Open Water,Bureau of Reclamation,49177
+2,Open Water,Other or Unknown Local Government,2336
+2,Open Water,Private,111033
+2,Open Water,State Department of Conservation,1145414
+2,Polar & High Montane Scrub, Grassland & Barrens,Bureau of Land Management,208437
+2,Polar & High Montane Scrub, Grassland & Barrens,Forest Service,552372
+2,Polar & High Montane Scrub, Grassland & Barrens,Non-Governmental Organization,35307
+2,Polar & High Montane Scrub, Grassland & Barrens,Private,351
+2,Recently Disturbed or Modified,Bureau of Reclamation,7
+2,Recently Disturbed or Modified,Joint,163468
+2,Recently Disturbed or Modified,Private,62766
+2,Shrub & Herb Vegetation,Bureau of Land Management,4638601
+2,Shrub & Herb Vegetation,Joint,575009
+2,Shrub & Herb Vegetation,State Department of Natural Resources,1579987
+2,Shrub & Herb Vegetation,State Land Board,33709
+3,Agricultural & Developed Vegetation,Agricultural Research Service,15298
+3,Agricultural & Developed Vegetation,Bureau of Reclamation,431464
+3,Agricultural & Developed Vegetation,Non-Governmental Organization,445054
+3,Agricultural & Developed Vegetation,Private,621414
+3,Agricultural & Developed Vegetation,Unknown,625845
+3,Desert & Semi-Desert,Army Corps of Engineers,1011
+3,Desert & Semi-Desert,City Land,6887963
+3,Desert & Semi-Desert,National Park Service,9388066
+3,Desert & Semi-Desert,Regional Water Districts,736
+3,Desert & Semi-Desert,U.S. Fish & Wildlife Service,99050
+3,Developed & Other Human Use,Non-Governmental Organization,85571
+3,Developed & Other Human Use,Unknown,816819
+3,Forest & Woodland,County Land,11868576
+3,Forest & Woodland,Other or Unknown State Land,36592832
+3,Forest & Woodland,State Department of Land,5285706
+3,Introduced & Semi Natural Vegetation,Army Corps of Engineers,418
+3,Introduced & Semi Natural Vegetation,Other or Unknown Federal Land,1
+3,Nonvascular & Sparse Vascular Rock Vegetation,Department of Defense,349
+3,Nonvascular & Sparse Vascular Rock Vegetation,State Park and Recreation,38330
+3,Nonvascular & Sparse Vascular Rock Vegetation,Tennessee Valley Authority,27329
+3,Open Rock Vegetation,Army Corps of Engineers,1
+3,Open Rock Vegetation,Joint,131
+3,Open Rock Vegetation,Non-Governmental Organization,4048
+3,Open Rock Vegetation,Private,957
+3,Open Water,Bureau of Reclamation,2118206
+3,Open Water,Joint,193052
+3,Open Water,Other,846
+3,Open Water,Other or Unknown Federal Land,609
+3,Open Water,State Park and Recreation,1056667
+3,Polar & High Montane Scrub, Grassland & Barrens,Joint,52
+3,Polar & High Montane Scrub, Grassland & Barrens,State Park and Recreation,164
+3,Recently Disturbed or Modified,Non-Governmental Organization,195165
+3,Recently Disturbed or Modified,Other,204
+3,Shrub & Herb Vegetation,Non-Governmental Organization,798019
+3,Shrub & Herb Vegetation,Unknown,222822
+4,Agricultural & Developed Vegetation,County Land,2014180
+4,Agricultural & Developed Vegetation,Natural Resources Conservation Service,463052
+4,Agricultural & Developed Vegetation,Regional Water Districts,810404
+4,Agricultural & Developed Vegetation,State Department of Natural Resources,262062
+4,Agricultural & Developed Vegetation,State Fish and Wildlife,57560
+4,Desert & Semi-Desert,Bureau of Indian Affairs,104964477
+4,Desert & Semi-Desert,Bureau of Land Management,525
+4,Desert & Semi-Desert,Forest Service,121928
+4,Desert & Semi-Desert,Private,6581178
+4,Desert & Semi-Desert,State Land Board,20383234
+4,Developed & Other Human Use,American Indian Lands,9663
+4,Developed & Other Human Use,State Department of Land,505584
+4,Developed & Other Human Use,State Fish and Wildlife,65791
+4,Forest & Woodland,Bureau of Reclamation,2248
+4,Forest & Woodland,Department of Defense,14955383
+4,Forest & Woodland,Department of Energy,1312280
+4,Forest & Woodland,Joint,4031965
+4,Forest & Woodland,Other or Unknown Federal Land,11778
+4,Forest & Woodland,State Park and Recreation,2082184
+4,Introduced & Semi Natural Vegetation,Bureau of Indian Affairs,3089668
+4,Introduced & Semi Natural Vegetation,Bureau of Land Management,23
+4,Introduced & Semi Natural Vegetation,State Department of Land,49233
+4,Introduced & Semi Natural Vegetation,State Land Board,143373
+4,Nonvascular & Sparse Vascular Rock Vegetation,City Land,23023
+4,Nonvascular & Sparse Vascular Rock Vegetation,Other,272
+4,Nonvascular & Sparse Vascular Rock Vegetation,State Department of Land,49829
+4,Open Rock Vegetation,Natural Resources Conservation Service,136
+4,Open Rock Vegetation,Regional Water Districts,292
+4,Open Water,City Land,228188
+4,Open Water,County Land,133042
+4,Open Water,National Oceanic and Atmospheric Administration,388
+4,Open Water,National Park Service,917010
+4,Open Water,Regional Water Districts,95968
+4,Open Water,State Department of Land,19992
+4,Recently Disturbed or Modified,American Indian Lands,1673
+4,Recently Disturbed or Modified,County Land,157252
+4,Recently Disturbed or Modified,National Oceanic and Atmospheric Administration,36
+4,Recently Disturbed or Modified,Other or Unknown State Land,245265
+4,Recently Disturbed or Modified,Regional Agency Land,2524
+4,Shrub & Herb Vegetation,American Indian Lands,123849
+4,Shrub & Herb Vegetation,State Fish and Wildlife,129827
