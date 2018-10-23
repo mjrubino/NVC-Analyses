@@ -87,7 +87,7 @@ print("+"*45)
 print("Connecting to Database ....")
 cur, conn = ConnectAnalyticDB()
 
-## The SQL to pull out NVC Groups, Classes and PADUS data from the analytic db
+## The SQL to pull out NVC Classes, PAD management and status data from the analytic db
 sql = """
 
 WITH
