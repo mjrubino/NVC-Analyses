@@ -9,7 +9,13 @@ Created on Wed Sep  5 14:22:10 2018
 
 
 
-MJR 7 September 2015
+        NVCSummarization.py
+        
+        Uses GAP Analytic database to summarize protection across
+        National Vegetation Classification Groups and Classes
+        
+        Output is a box plot of 5 NVC classes' percent mapped area
+        by protection status (GAP status 1 & 2 and GAP status 1-3).
 
 
  
