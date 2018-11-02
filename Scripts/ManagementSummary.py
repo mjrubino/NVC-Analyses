@@ -90,30 +90,7 @@ cur, conn = ConnectAnalyticDB()
 ## The SQL to pull out NVC Classes, PAD management and status data from the analytic db
 sql = """
 
-WITH
 
-/*
-	Summarization of total cells within each land mangement type
-*/
-
-MangTotal AS (
-SELECT 
-	padus1_4.d_mang_nam,
-	padus1_4.d_mang_typ
-FROM     lu_boundary_gap_landfire INNER JOIN lu_boundary
-			ON lu_boundary_gap_landfire.boundary = lu_boundary.value
-			INNER JOIN padus1_4
-			ON lu_boundary.padus1_4 = padus1_4.objectid
-GROUP BY  
-	padus1_4.d_mang_typ,
-	padus1_4.d_mang_nam
-),
-
-/*
-	Summary for NVCS Classes by PAD Status (including NVC groups)
-*/
-
-NVC_Group AS (  
 SELECT
 	padus1_4.gap_sts as PADStatus,
 	padus1_4.d_mang_nam as ManageName,
@@ -132,28 +109,6 @@ GROUP BY
   gap_landfire.nvc_class
   --gap_landfire.nvc_group
 
-)
-
-/*
-	Summarizing cell count by NVC Class, Management Name, and PAD Status
-*/
-	SELECT *
-	FROM
-	(
-	SELECT NVC_Group.PADStatus,
-			NVC_Group.NVCClass,
-			--NVC_Group.NVCGroup,
-			NVC_Group.ManageName,
-			--NVC_Group.ManageType,
-			SUM(NVC_Group.nCells) AS nCellSum
-	FROM   MangTotal INNER JOIN NVC_Group 
-		ON	   MangTotal.d_mang_nam = NVC_Group.ManageName
-	GROUP BY NVC_Group.PADStatus,
-			 NVC_Group.NVCClass,
-			 NVC_Group.ManageName
-	) AS NVC_Output
-
-
 """
 
 # Make a dataframe from the results of the SQL query
@@ -170,7 +125,7 @@ df2 = df[(df['NVCClass'] == 'Forest & Woodland') |
 
 # Add a new column for area in square kilometers
 print("Calculating Area in km2 ....")
-df2['km2'] = df2['nCellSum']*0.0009
+df2['km2'] = df2['nCells']*0.0009
 
 # Add a new column ManageCat that standarizes management types
 categories = {'Bureau of Land Management':'Bureau of Land Management',
@@ -197,7 +152,7 @@ categories = {'Bureau of Land Management':'Bureau of Land Management',
 'National Oceanic and Atmospheric Administration':'Other Federal',
 'Other or Unknown Federal Land':'Other Federal',
 'Tennessee Valley Authority':'Other Federal',
-'Natural Resources Conservation Service':'State',
+'Natural Resources Conservation Service':'Other Federal',
 'Other or Unknown State Land':'State',
 'State Department of Conservation':'State',
 'State Department of Land':'State',
@@ -232,7 +187,7 @@ from bokeh.plotting import figure
 from bokeh.models import NumeralTickFormatter
 
 # Bokeh generates an HTML file for the figure
-output_file(workDir + "ManagementSummary.html")
+output_file(workDir + "ManagementSummary-reworked.html")
 
 # -----------------------------------------------------------------------------
 # Manipulate the dataframe to organize data to use as the plotting source
@@ -242,7 +197,7 @@ print("  adding protection status column ...")
 df3['Status'] = np.where(df3['PADStatus']=='3', 'Multiple Use', 'Protected')
 
 # Drop PADStatus, ManageName, and nCellSum
-df3 = df3.drop(['PADStatus','ManageName','nCellSum'], axis=1)
+df3 = df3.drop(['PADStatus','ManageName','nCells'], axis=1)
 # There is no entry of 'Protected' (i.e. status 1 and/or 2) for Polar & High Montane
 #   - 'Other Federal' in the data making the records for status pairs uneven.
 #  Add a row that is 0 for these criteria
