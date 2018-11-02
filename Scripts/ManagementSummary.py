@@ -187,7 +187,7 @@ from bokeh.plotting import figure
 from bokeh.models import NumeralTickFormatter
 
 # Bokeh generates an HTML file for the figure
-output_file(workDir + "ManagementSummary-reworked.html")
+output_file(workDir + "ManagementSummary.html")
 
 # -----------------------------------------------------------------------------
 # Manipulate the dataframe to organize data to use as the plotting source
