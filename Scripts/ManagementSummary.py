@@ -272,7 +272,7 @@ dfSource['Total Area'] = dfSource['Protected'] + dfSource['Multiple Use']
 print("+++++ Sending Plot to HTML File +++++")
 colors = ['#286000','#a6e883'] # Protected | Multiple Use
 p = figure(title="Management by USNVC Class", plot_width=1100, x_range=FactorRange(*dfSource.index))
-
+# This creates a hover tool to display data when mousing over bars
 tt = HoverTool(
 tooltips=[
     ("Protected", "@Protected{0,0}"),
@@ -283,7 +283,7 @@ tooltips=[
 
 p.vbar_stack(dfSource.columns[0:2], x='CatCls', width=0.8, color=colors, 
              source=dfSource, legend=[value(x) for x in dfSource.columns[0:2]]) 
-
+# Add the hover tooltip
 p.add_tools(tt)
 p.title.align = "center"
 p.title.text_font_size = '12pt'
