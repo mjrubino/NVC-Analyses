@@ -184,7 +184,7 @@ from bokeh.core.properties import value
 from bokeh.io import show, output_file
 from bokeh.models import ColumnDataSource, FactorRange
 from bokeh.plotting import figure
-from bokeh.models import NumeralTickFormatter
+from bokeh.models import NumeralTickFormatter, HoverTool
 
 # Bokeh generates an HTML file for the figure
 output_file(workDir + "ManagementSummary.html")
@@ -265,14 +265,26 @@ df5sort = df5.sort_values(by='sortid')
 # Drop the sortid column then change the index back to CatCls
 dfSource = df5sort.drop(['sortid'],axis=1)
 dfSource = dfSource.set_index(keys=['CatCls'])
+# Add a total km2 column
+dfSource['Total Area'] = dfSource['Protected'] + dfSource['Multiple Use']
 
 # +++++++++++++++++++++++++++++++++++++++ Plotting +++++++++++++++++++++++++++++++++++++++++++++++++++
 print("+++++ Sending Plot to HTML File +++++")
 colors = ['#286000','#a6e883'] # Protected | Multiple Use
 p = figure(title="Management by USNVC Class", plot_width=1100, x_range=FactorRange(*dfSource.index))
-p.vbar_stack(dfSource.columns, x='CatCls', width=0.8, color=colors, 
-             source=dfSource, legend=[value(x) for x in dfSource.columns]) 
 
+tt = HoverTool(
+tooltips=[
+    ("Protected", "@Protected{0,0}"),
+    ("Multiple Use", "@{Multiple Use}{0,0}"),
+    ("Total", "@{Total Area}{0,0}")
+    ]
+)
+
+p.vbar_stack(dfSource.columns[0:2], x='CatCls', width=0.8, color=colors, 
+             source=dfSource, legend=[value(x) for x in dfSource.columns[0:2]]) 
+
+p.add_tools(tt)
 p.title.align = "center"
 p.title.text_font_size = '12pt'
 p.legend.location = "top_center"
@@ -286,8 +298,5 @@ p.yaxis.axis_label = "Square Kilometers"
 p.yaxis.axis_label_text_font_style = "normal"
 
 show(p)
-
-
-
 
 
