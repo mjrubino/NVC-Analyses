@@ -273,6 +273,7 @@ print("+++++ Sending Plot to HTML File +++++")
 colors = ['#286000','#a6e883'] # Protected | Multiple Use
 p = figure(title="Management by USNVC Class", plot_width=1100, x_range=FactorRange(*dfSource.index))
 # This creates a hover tool to display data when mousing over bars
+# The mouse over tool tip will have areas for protected, multiple use, and totla
 tt = HoverTool(
 tooltips=[
     ("Protected", "@Protected{0,0}"),
