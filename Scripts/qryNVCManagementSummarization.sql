@@ -20,13 +20,7 @@
 USE GAP_AnalyticDB;
 GO
 
-/*
-	NOTE: The commented code causes a problem with summarizing the manager name Forest Service.
-		  An edited version is at the bottom of the script and is functional in the Python
-		  scripting (ManagementSummary.py) utilized to generate the stacked bar chart of NVC
-		  Class - GAP Status - PADUS management area summaries.
-*/
-'''WITH
+WITH
 
 /*
 	Summarization of total cells within each land mangement type
@@ -90,23 +84,4 @@ GROUP BY
 			 NVC_Group.NVCGroup,
 			 NVC_Group.ManageName
 	) AS NVC_Output
-'''
 
-
-SELECT
-	padus1_4.gap_sts as PADStatus,
-	padus1_4.d_mang_nam as ManageName,
-	padus1_4.d_mang_typ as ManageType,
-	gap_landfire.nvc_class as NVCClass,
-	--gap_landfire.nvc_group as NVCGroup,
-	sum(lu_boundary_gap_landfire.count) as nCells
-FROM	lu_boundary INNER JOIN lu_boundary_gap_landfire INNER JOIN gap_landfire
-	ON	lu_boundary_gap_landfire.gap_landfire = gap_landfire.value
-	ON	lu_boundary.value = lu_boundary_gap_landfire.boundary INNER JOIN padus1_4
-	ON	lu_boundary.padus1_4 = padus1_4.objectid
-GROUP BY
-  padus1_4.d_mang_nam,
-  padus1_4.d_mang_typ,
-  padus1_4.gap_sts, 
-  gap_landfire.nvc_class
-  --gap_landfire.nvc_group
